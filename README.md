@@ -1,2 +1,7 @@
 # binmage
-Image representation of a binary file
+The above code helps you convert a binary file to a coloured representation. Each byte is read and converted to pixel using a colour map.
+
+Colour representaitons of files can be helpful in analyzing the binary file.
+
+![alt text](https://github.com/chaser3/binmage/blob/master/example/05042268ee4fa6959f49e1d99d30fd71.png)
+
