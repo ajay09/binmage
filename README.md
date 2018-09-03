@@ -6,4 +6,10 @@ Colour representaitons of files can be helpful in analyzing the binary file.
 
 # Dependencies
 pip install pillow
+
 pip install numpy
+
+# Using
+call the function -: fileToImage(path to file).  
+It will return a PIL Image object which can be saved using the following command in your code.  
+returned_object.save('output_file_name.png')
