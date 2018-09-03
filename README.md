@@ -10,6 +10,6 @@ pip install pillow
 pip install numpy
 
 # Description
-Call the function -: 	**fileToImage(path_to_binary_file).**
+Call the function -: 	**fileToImage(path_to_binary_file).**  
 It will return a PIL Image object which can be saved using the following command in your code:  
 **returned_object.save('output_file_name.png')**
