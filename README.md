@@ -5,10 +5,10 @@ Colour representaitons of files can be helpful in analyzing the binary file.
 ![alt text](https://github.com/chaser3/binmage/blob/master/example/05042268ee4fa6959f49e1d99d30fd71.png)
 
 # Dependencies
+```
 pip install pillow
-
 pip install numpy
-
+```
 # Description
 ```
 import binmage
